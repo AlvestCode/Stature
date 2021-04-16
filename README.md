@@ -1,5 +1,7 @@
 # Stature
 
-In this repository is covered a simple statistical analysis of a small dataset.
+In this repository you will find a simple statistical analysis over a small dataset.
 
-Y
+Among the files you will find:
+- R file with the code 
+- csv files with the data
